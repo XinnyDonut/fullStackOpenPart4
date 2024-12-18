@@ -1,0 +1,31 @@
+{
+  "name": "fullstackopenpart4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinnyDonut/fullStackOpenPart4.git"
+  },
+  "author": "Xinxin Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinnyDonut/fullStackOpenPart4/issues"
+  },
+  "homepage": "https://github.com/XinnyDonut/fullStackOpenPart4#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "npm": "^11.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
